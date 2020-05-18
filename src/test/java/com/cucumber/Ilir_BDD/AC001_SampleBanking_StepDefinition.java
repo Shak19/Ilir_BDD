@@ -41,13 +41,13 @@ public class AC001_SampleBanking_StepDefinition {
 		capabilities.setCapability(ChromeOptions.CAPABILITY, options);
 		*/
 
-		/*
+		
 		ChromeOptions options1 = new ChromeOptions();
 		options1.addArguments("start-maximized");
 		DesiredCapabilities capabilities1 = new DesiredCapabilities();
 		capabilities1.setCapability(ChromeOptions.CAPABILITY, options1);
 		
-		driver = new ChromeDriver(options1);*/
+		driver = new ChromeDriver(options1);
 	//	ChromeDriver driver = new ChromeDriver(capabilities);
 
 		//driver = new FirefoxDriver();

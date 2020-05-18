@@ -1,2 +1,5 @@
 [0517/222653.652:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ILIR~1.SHA\AppData\Local\Temp\scoped_dir28488_1471512758\Crashpad: The system cannot find the file specified. (0x2)
 [0517/222914.614:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ILIR~1.SHA\AppData\Local\Temp\scoped_dir23580_660735025\Crashpad: The system cannot find the file specified. (0x2)
+[0518/112312.213:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ILIR~1.SHA\AppData\Local\Temp\scoped_dir27416_392799041\Crashpad: The system cannot find the file specified. (0x2)
+[0518/112907.700:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ILIR~1.SHA\AppData\Local\Temp\scoped_dir15624_1457664561\Crashpad: The system cannot find the file specified. (0x2)
+[0518/130011.884:ERROR:crash_report_database_win.cc(558)] GetFileAttributes C:\Users\ILIR~1.SHA\AppData\Local\Temp\scoped_dir4036_1209207258\Crashpad: The system cannot find the file specified. (0x2)
